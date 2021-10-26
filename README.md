@@ -1,0 +1,2 @@
+# ReactAdapterPattern
+Created with CodeSandbox
